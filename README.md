@@ -1,1 +1,1 @@
-Little page for showing great images 
+Little page to show great images 
